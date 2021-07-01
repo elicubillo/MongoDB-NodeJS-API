@@ -1,0 +1,22 @@
+{
+  "name": "MongoDB-NodeJS-API",
+  "version": "1.0.0",
+  "description": "Example of how to interact with the MongoDB database using an API developed in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Demo"
+  ],
+  "author": "ReynerGonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0"
+  }
+}
