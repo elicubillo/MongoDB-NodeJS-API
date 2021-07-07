@@ -10,7 +10,14 @@ Example of how to interact with the MongoDB database using an API developed in N
 npm install
 ```
 
-2. Run Server
+2.
+<div align="center">
+   <h3>TECH STACK</h3>
+   <img src="https://github.com/elicubillo/MongoDB-NodeJS-API/blob/main/funtion1.PNG" />
+  
+</div>
+
+3. Run Server
 
 ```bash
 node server.js
