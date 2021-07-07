@@ -13,7 +13,7 @@
     "Mongoose",
     "Demo"
   ],
-  "author": "ReynerGonzalez",
+  "author": "Grupo4",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
