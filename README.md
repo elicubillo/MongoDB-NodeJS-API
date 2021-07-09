@@ -41,7 +41,7 @@ npm install body-parser --save
 
  6. Establish Connection with MongoDB
 
- <img src="https://github.com/elicubillo/MongoDB-NodeJS-API/blob/main/connecting.PNG" /
+ <img src="https://github.com/elicubillo/MongoDB-NodeJS-API/blob/main/connecting.PNG"/>
  <img src="https://github.com/elicubillo/MongoDB-NodeJS-API/blob/main/mongo.PNG" />
  <div> </div>
  <img src="https://github.com/elicubillo/MongoDB-NodeJS-API/blob/main/mongo2.PNG" />
